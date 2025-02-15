@@ -5,7 +5,7 @@ This project implements a Text-to-Speech (TTS) system using a diffusion-based ge
 LLaMA 3.2 for text generation<br/>
 Grad-TTS for probabilistic diffusion modeling<br/>
 HiFi-GAN for high-fidelity waveform synthesis<br/>
-Post-processing techniques for noise reduction and speech enhancement****
+Post-processing techniques for noise reduction and speech enhancement
 
 ## Features
 ✅ Accent-Preserving Speech Synthesis – Ensures realistic pronunciation and tone.<br/>
