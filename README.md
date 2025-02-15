@@ -1,3 +1,20 @@
+# Text-to-Speech Diffusion Model
+## Overview
+This project implements a Text-to-Speech (TTS) system using a diffusion-based generative model inspired by Grad-TTS. The model synthesizes high-quality, natural-sounding speech by refining noisy mel-spectrogram representations into intelligible and expressive audio. The approach leverages:
+
+LLaMA 3.2 for text generation<br/>
+Grad-TTS for probabilistic diffusion modeling<br/>
+HiFi-GAN for high-fidelity waveform synthesis<br/>
+Post-processing techniques for noise reduction and speech enhancement****
+
+## Features
+✅ Accent-Preserving Speech Synthesis – Ensures realistic pronunciation and tone.<br/>
+✅ Diffusion-Based Generative Model – Grad-TTS refines noisy spectrograms into high-quality speech.<br/>
+✅ High-Fidelity Waveform Generation – HiFi-GAN ensures natural and clear speech synthesis.<br/>
+✅ Post-Processing for Noise Reduction – Improves speech clarity by eliminating artifacts.<br/>
+
+
+
 <p align="center">
     <img src="resources/reverse-diffusion.gif" alt="drawing" width="500"/>
 </p>
