@@ -1,4 +1,4 @@
-# Text-to-Speech Diffusion Model
+# Text-to-Speech GPT using Diffusion Model
 ## Overview
 This project implements a Text-to-Speech (TTS) system using a diffusion-based generative model inspired by Grad-TTS. The model synthesizes high-quality, natural-sounding speech by refining noisy mel-spectrogram representations into intelligible and expressive audio. The approach leverages:
 
